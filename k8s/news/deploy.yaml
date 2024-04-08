@@ -55,7 +55,7 @@ spec:
     spec:
       containers:
         - name: web
-          image: fabricioveronez/devops4devs-news:35
+          image: fabricioveronez/devops4devs-news:36
           ports:
             - containerPort: 8080
           env: 
